@@ -11,28 +11,9 @@
 <title>Insert title here</title>
 </head>
 <body>
-<!-- 주석 처리 ctrl + shift + / -->
-<table class="table">
-	<tr>
-		<th>Lorem</th>
-		<th>Lorem</th>
-		<th>Lorem</th>
-	</tr>
-	<tr>
-		<td>Lorem ipsum dolor.</td>
-		<td>Eos iste ut.</td>
-		<td>Magni asperiores architecto.</td>
-	</tr>
-	<tr>
-		<td>Lorem ipsum dolor.</td>
-		<td>Quam atque itaque?</td>
-		<td>Molestiae impedit minima.</td>
-	</tr>
-	<tr>
-		<td>Lorem ipsum dolor.</td>
-		<td>Voluptatibus consequatur modi.</td>
-		<td>Eaque dolorum obcaecati.</td>
-	</tr>
-</table>
+
+<!-- button.btn.btn-primary>lorem1 -->
+<button class="btn btn-primary">Lorem.</button>
+
 </body>
 </html>
